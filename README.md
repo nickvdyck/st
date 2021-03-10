@@ -1,1 +1,1 @@
-# My personal for of ST (the simple (suckless) terminal)
+# My personal fork of ST (the simple (suckless) terminal)
